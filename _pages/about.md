@@ -23,5 +23,4 @@ For more info
 Feel free to contact me:
 
 <b>Mail</b>: marco.sforza@uniroma3.it
-
 <b>Office</b>: Via Silvio D'Amico, 77 - 00145 Rome (IT)
