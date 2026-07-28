@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
+# Teaching
 ------
 
 # Corso di prova
-Questo è un testo lorem ipsum dolor sit amen.
+Questo è un testo lorem ipsum dolor sit amet.
 I contenuti del corso saranno:
 * mane
 * take
