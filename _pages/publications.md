@@ -37,6 +37,8 @@ Firms and industry dynamics; Economics of innovation and technological change; P
 - *Digitalization and technical efficiency using Stochastic Frontiers*, with M. Agostino, A. Giunta, S. Ruberto.
 - *Firms' Energy Performance Under Different Incentives*, with F. Calciolari and M. D'Angeli.
 
+<br>
+
 ## PhD Thesis
 
 ### Exploring Firms' Digital Transformation. An Empirical Assessment of its Determinants and Impacts.
