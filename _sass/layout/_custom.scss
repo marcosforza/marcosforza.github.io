@@ -1,17 +1,18 @@
 .page__footer {
   border-top: 0 !important;
   margin-top: 0 !important;
-  padding: 0.25rem 0 !important;
-}
-
-.page__footer-follow {
-  display: none !important;
+  padding: 0 !important;
+  min-height: 2.6rem;
+  display: flex;
+  align-items: center;      // centra in altezza
+  justify-content: flex-start;
 }
 
 .page__footer-copyright {
-  border-top: 0 !important;
+  width: 100%;
   margin: 0 !important;
-  padding: 0 !important;
+  padding: 0 1rem !important;
   line-height: 1.1 !important;
-  text-align: center;
+  text-align: left;         // allineato a sinistra
+  color: #1b4faa;           // cambia qui il colore
 }
