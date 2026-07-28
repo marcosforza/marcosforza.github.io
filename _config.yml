@@ -26,9 +26,13 @@ author:
   avatar           : "profile.png"
   name             : "Marco Sforza"
   pronouns         : "(he/him)" # example: "she/her"  
-  bio              : "Post-doc Researcher in Economics"
+  bio              : |
+    Post-doc Researcher
+    in Applied Economics
   location         : "Rome (IT)"
-  employer         : "Roma Tre University"
+  employer         : |
+    Roma Tre University
+    Dept. of Economics
   uri              : # URL
   email            : "marco.sforza@uniroma3.it" 
 
