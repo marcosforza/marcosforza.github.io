@@ -12,12 +12,31 @@ author_profile: true
 
 ###### Just some shots of moments, places, and lights that I loved and tried to capture:
 ------
-<div class="photo-grid">
-  <img src="/assets/img/photo1.jpg" alt="Photo 1">
-  <img src="/assets/img/photo2.jpg" alt="Photo 2">
-  <img src="/assets/img/photo3.jpg" alt="Photo 3">
-  <img src="/assets/img/photo4.jpg" alt="Photo 4">
-  <img src="/assets/img/photo5.jpg" alt="Photo 5">
+<div class="misc-gallery">
+  <figure>
+    <img src="/assets/img/photo1.jpg" alt="Foto 1">
+    <figcaption> </figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/photo2.jpg" alt="Foto 2">
+    <figcaption> </figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/photo3.jpg" alt="Foto 3">
+    <figcaption>Grigio forte</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/photo4.jpg" alt="Foto 4">
+    <figcaption> </figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/photo5.jpg" alt="Foto 3">
+    <figcaption>Periferie</figcaption>
+  </figure>
 </div>
 
 <br>
