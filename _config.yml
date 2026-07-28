@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Marco Sforza"
 title_separator          : "-"
 name                     : &name "Marco Sforza"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Marco Sforza"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : "(he/him)" # example: "she/her"  
   bio              : "Post-doc Researcher in Economics"
   location         : "Rome (IT)"
   employer         : "Roma Tre University"
