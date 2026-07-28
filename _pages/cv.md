@@ -61,5 +61,4 @@ Conferences & seminars
   * 62nd Annual Meeting, Società Italiana di Economia.
 
 
-======
 Sometimes I am also less boring. Among my passions, you may find: politics; cooking, tea, and coffee; contemporary art, photography, and graphic design; making lists, building Lego, and filling Post-it notes. More personal bits in [Misc](/misc/).
