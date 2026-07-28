@@ -16,6 +16,8 @@ author_profile: true
 - Giunta, A., Marvasi, E., and Sforza, M. (2025). *[Digitalization and regionalization of Global Value Chains in European industries](https://doi.org/10.1007/s40812-025-00347-2)*. Journal of Industrial and Business Economics. Article available in open access.
 - Bronzini, R., Giunta, A., Pierucci, E., and Sforza, M. (2024). *[More technology, more loans? How advanced digital technologies influence firms’ financing conditions](https://doi.org/10.1016/j.strueco.2024.11.011)*. Structural Change and Economic Dynamics. Article available in open access.
 
+<br>
+
 ### Working papers
 ------
 
@@ -24,6 +26,7 @@ author_profile: true
 - Giunta, A., Marvasi, E., and Sforza, M. (2024). *Digitalization and Regionalization of Global Value Chains in European Industries*. LEAP Working Paper n. 19/2024, LUISS Institute for European Analysis and Policy. [Link to the WP](https://leap.luiss.it/publication-research/publications/a-giunta-e-marvasi-m-sforza-digitalization-and-regionalization-of-global-value-chains-in-european-industries/)
 - Sforza, M. (2023). *Are digital technologies reshaping trade patterns? Evidence from European industries*. Dipartimento di Economia Working Papers n. 275, Roma Tre University. [Link to the WP](https://ideas.repec.org/p/rtr/wpaper/0275.html)
 
+<br>
 
 ### Selected work in progress
 ------
