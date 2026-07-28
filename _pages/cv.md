@@ -27,13 +27,13 @@ redirect_from:
 
 ### Schools & advanced training
 ------
-* Patent Data Analysis for Economics, SEEDS Summer school, University of Ferrara, IT (June 2024)
-* International business, innovation and geography, Henley Business School, University of Reading, UK (March 2023)
-* Tools and methods for analysing complex STI systems: Network Science, Machine Learning and Spatial Models. CNR-IRCrES, Rome, IT (February 2023)
-* International Trade — Firms, policies and distributional outcomes. Paris School of Economics, Paris, FR (June 2022)
-* Economics of innovation and technological change. Sant’AnnaSchool of Advanced Studies — Institute of Economics, Pisa, IT (July 2021)
-* Panel data econometrics: theory and applications. Italian Econometric Association, Bertinoro, IT (August 2020)
-* Public policy impact assessment. Concept, methods, applications. Manlio Rossi-Doria Centre for Economic and Social Research, Rome, IT (July 2020)
+* *Patent Data Analysis for Economics*. SEEDS Summer school, University of Ferrara, IT (June 2024)
+* *International business, innovation and geography*. Henley Business School, University of Reading, UK (March 2023)
+* *Tools and methods for analysing complex STI systems: Network Science, Machine Learning and Spatial Models*. CNR-IRCrES, Rome, IT (February 2023)
+* *International Trade — Firms, policies and distributional outcomes*. Paris School of Economics, Paris, FR (June 2022)
+* *Economics of innovation and technological change*. Sant’AnnaSchool of Advanced Studies — Institute of Economics, Pisa, IT (July 2021)
+* *Panel data econometrics: theory and applications*. Italian Econometric Association, Bertinoro, IT (August 2020)
+* *Public policy impact assessment. Concept, methods, applications*. Manlio Rossi-Doria Centre for Economic and Social Research, Rome, IT (July 2020)
 
 <br>
 
