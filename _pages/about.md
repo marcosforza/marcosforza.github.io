@@ -18,7 +18,7 @@ I hold a Ph.D. in Economics from Roma Tre University and a master's degree in Po
 Currently, I'm working on the research project "Policies for Transition: Impact and Governance", which aims to develop an impact assessment pilot model and generate a set of guidelines for policy makers to design effective transition policies, with a particular attention to the digital transition.
 
 
-Feel free to contact me:
+### Feel free to contact me:
 ------
 
 <b>Mail</b>: marco.sforza@uniroma3.it<br>
