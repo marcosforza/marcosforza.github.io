@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,17 +11,17 @@ redirect_from:
 
 ### Education
 ------
-* Ph.D in Economics, Dept. of Economics, Roma Tre University, 2023
-  * Dissertation in Applied Economics (ECON-04/A):<br>
-    <span style="color: #1b4faa;">"Exploring firms' digital transformation. An empirical assessment of its determinants and impacts."</span><br>
-    Main supervisor: prof. Anna Giunta
+* **Ph.D in Economics**, Dept. of Economics, Roma Tre University, 2023<br>
+  Dissertation in Applied Economics (ECON-04/A):<br>
+  <i>"Exploring firms' digital transformation. An empirical assessment of its determinants and impacts."</i><br>
+  Main supervisor: prof. Anna Giunta
     
-* Master's Degree in Political Economy, <i>cum laude</i>. Dept. of Economics and Law, Sapienza University of Rome, 2019
-  * Thesis in Political Economy (SECS-P/01):<br>
-    <span style="color: #1b4faa;">Structural change, technological innovation, and employment: evidence from Italy</span><br>
-    Supervisor: prof. Annamaria Simonazzi
+* **M.Sc. in Political Economy**, <i>cum laude</i>. Dept. of Economics and Law, Sapienza University of Rome, 2019<br>
+  Thesis in Political Economy (SECS-P/01):<br>
+  <i>Structural change, technological innovation, and employment: evidence from Italy</i><br>
+  Supervisor: prof. Annamaria Simonazzi
     
-* Bachelor's Degree in Economics. Dept. of Economics and Law, Sapienza University of Rome, 2016
+* **B.Sc. in Economics**. Dept. of Economics and Law, Sapienza University of Rome, 2016
 
 <br>
 
@@ -50,23 +50,23 @@ redirect_from:
 
 ### Conferences & seminars
 ------
-**2026**
-* 40th International Schumpeter Society Conference, University of Strasbourg // 47th AISRe Annual Conference, Florence // EuSPRI Annual Conference, Technical University of Valencia // Workshop "Advances in Spatial and Network Modelling for Policymaking", EC-JRC Seville // DISES Seminar, University of Salerno // Frontiers in Causal Inference and Machine Learning, IMT Alti Studi, Lucca // Workshop "Governance e transizioni nella nuova politica di coesione: le evidenze e la riforma", Roma Tre // 24th SIEPI Workshop, Bari.
+**2026**<br>
+40th International Schumpeter Society Conference, University of Strasbourg // 47th AISRe Annual Conference, Florence // EuSPRI Annual Conference, Technical University of Valencia // Workshop "Advances in Spatial and Network Modelling for Policymaking", EC-JRC Seville // DISES Seminar, University of Salerno // Frontiers in Causal Inference and Machine Learning, IMT Alti Studi, Lucca // Workshop "Governance e transizioni nella nuova politica di coesione: le evidenze e la riforma", Roma Tre // 24th SIEPI Workshop, Bari.
 
-**2025**
-* Workshop "Italy in the Global Economy: Academia-Policy Dialogue on FDI, Trade, and Value Chains", University of Verona // Green and Digital Transformations. Skills, Jobs and Policy, University of Ferrara // 66th Annual Meeting, Società Italiana di Economia, Università di Napoli Parthenope // 46th AISRe Annual Conference, Pescara // GRAPE Seminar Series, CNR-IRCrES, Roma // 13rd IAERE Annual Conference, Roma // 23rd SIEPI Workshop, Bologna.
+**2025**<br>
+Workshop "Italy in the Global Economy: Academia-Policy Dialogue on FDI, Trade, and Value Chains", University of Verona // Green and Digital Transformations. Skills, Jobs and Policy, University of Ferrara // 66th Annual Meeting, Società Italiana di Economia, Università di Napoli Parthenope // 46th AISRe Annual Conference, Pescara // GRAPE Seminar Series, CNR-IRCrES, Roma // 13rd IAERE Annual Conference, Roma // 23rd SIEPI Workshop, Bologna.
 
-**2024**
-* 65th Annual Meeting, Società Italiana di Economia, University of Urbino // GRAPE Seminar Series, CNR-IRCrES, Roma // 25th Annual Conference, European Trade Study Group, Athens // 13rd Workshop, Associazione Italiana di Economia Agraria e Applicata, University of Bari // 22nd SIEPI Workshop, Bergamo // EU-IOSAC Inaugural Workshop (invited), LUISS Institute for European Analysis and Policy, Roma.
+**2024**<br>
+65th Annual Meeting, Società Italiana di Economia, University of Urbino // GRAPE Seminar Series, CNR-IRCrES, Roma // 25th Annual Conference, European Trade Study Group, Athens // 13rd Workshop, Associazione Italiana di Economia Agraria e Applicata, University of Bari // 22nd SIEPI Workshop, Bergamo // EU-IOSAC Inaugural Workshop (invited), LUISS Institute for European Analysis and Policy, Roma.
 
-**2023**
-* 64th Annual Meeting, Società Italiana di Economia, GSSI, L'Aquila // Institutions, Knowledge, and Economic Development, University of Cagliari // 24th Annual Conference, European Trade Study Group, University of Surrey // Eu-SPRI Annual Conference, SPRU University of Sussex // Industry 4.0: Ten Years Later, University of Modena and Reggio Emilia // IBIG Masterclass seminar, Henley Business School, University of Reading.
+**2023**<br>
+64th Annual Meeting, Società Italiana di Economia, GSSI, L'Aquila // Institutions, Knowledge, and Economic Development, University of Cagliari // 24th Annual Conference, European Trade Study Group, University of Surrey // Eu-SPRI Annual Conference, SPRU University of Sussex // Industry 4.0: Ten Years Later, University of Modena and Reggio Emilia // IBIG Masterclass seminar, Henley Business School, University of Reading.
 
-**2022**
-* 20th SIEPI Workshop, L'Aquila.
+**2022**<br>
+20th SIEPI Workshop, L'Aquila.
 
-**2021**
-* 62nd Annual Meeting, Società Italiana di Economia.
+**2021**<br>
+62nd Annual Meeting, Società Italiana di Economia.
 
 <br>
 
