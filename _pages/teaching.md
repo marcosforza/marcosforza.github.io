@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /cv/
 author_profile: true
 ---
 
 {% include base_path %}
-
-Teaching
-------
 
 # Corso di prova
 Questo è un testo lorem ipsum dolor sit amet.
