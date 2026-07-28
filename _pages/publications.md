@@ -43,7 +43,7 @@ author_profile: true
 ## PhD Thesis
 ------
 
-### Exploring Firms' Digital Transformation. An Empirical Assessment of its Determinants and Impacts.
+*Exploring Firms' Digital Transformation. An Empirical Assessment of its Determinants and Impacts.*
 
 Department of Economics, Roma Tre University.  
 Main supervisor: prof. Anna Giunta.
