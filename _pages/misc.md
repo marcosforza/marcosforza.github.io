@@ -3,8 +3,6 @@ layout: archive
 title: ""
 permalink: /misc/
 author_profile: true
-nav: true
-nav_order: 5
 ---
 
 > « […] Art [should be considered] as a vast framework within which concepts are expressed through icons rather than words and, at the same time, as the 'highest level of imaginative thinking' »<br>
