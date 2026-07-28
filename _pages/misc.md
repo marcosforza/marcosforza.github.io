@@ -34,8 +34,33 @@ author_profile: true
   </figure>
 
   <figure>
-    <img src="/assets/img/photo5.jpg" alt="Foto 3">
+    <img src="/assets/img/photo5.jpg" alt="Foto 5">
     <figcaption>Periferie</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/photo5.jpg" alt="Foto 5">
+    <figcaption>Periferie</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/photo6.jpg" alt="Foto 6">
+    <figcaption>Un po' Casablanca, un po' L'Avana</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/photo7.png" alt="Foto 7">
+    <figcaption>Todo modo para buscar (...)</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/photo8.png" alt="Foto 8">
+    <figcaption>Sofia</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/img/photo9.png" alt="Foto 9">
+    <figcaption>Bliss, versione Agro romano</figcaption>
   </figure>
 </div>
 
