@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D in Economics, Dept. of Economics, Roma Tre University, 2023
-  * Dissertation in Applied Economics (ECON-04/A):
-    <a>"Exploring firms' digital transformation. An empirical assessment of its determinants and impacts."</a>
+  * Dissertation in Applied Economics (ECON-04/A): >
+    <a>"Exploring firms' digital transformation. An empirical assessment of its determinants and impacts."</a> >
     Main supervisor: prof. Anna Giunta
     
 * Master's Degree in Political Economy, <i>cum laude</i>. Dept. of Economics and Law, Sapienza University of Rome, 2019
-  * Thesis in Political Economy (SECS-P/01):	
-    <a>"Structural change, technological innovation, and employment: evidence from Italy"</a>
+  * Thesis in Political Economy (SECS-P/01): >
+    <a>"Structural change, technological innovation, and employment: evidence from Italy"</a> >
     Supervisor: prof. Annamaria Simonazzi
     
 * Bachelor's Degree in Economics. Dept. of Economics and Law, Sapienza University of Rome, 2016
