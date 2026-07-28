@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: archive
 title: ""
-permalink: /teaching/
+permalink: /cv/
 author_profile: true
 ---
+
+{% include base_path %}
 
 Teaching
 ------
