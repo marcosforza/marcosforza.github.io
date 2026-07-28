@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D in Economics, Dept. of Economics, Roma Tre University, 2023
   * Dissertation in Applied Economics (ECON-04/A):<br>
     <span style="color: #1b4faa;">"Exploring firms' digital transformation. An empirical assessment of its determinants and impacts."</span><br>
@@ -23,9 +23,10 @@ Education
     
 * Bachelor's Degree in Economics. Dept. of Economics and Law, Sapienza University of Rome, 2016
 
+<br>
 
 Schools & advanced training
-======
+------
 * Patent Data Analysis for Economics, SEEDS Summer school, University of Ferrara, IT (June 2024)
 * International business, innovation and geography, Henley Business School, University of Reading, UK (March 2023)
 * Tools and methods for analysing complex STI systems: Network Science, Machine Learning and Spatial Models. CNR-IRCrES, Rome, IT (February 2023)
@@ -34,9 +35,10 @@ Schools & advanced training
 * Panel data econometrics: theory and applications. Italian Econometric Association, Bertinoro, IT (August 2020)
 * Public policy impact assessment. Concept, methods, applications. Manlio Rossi-Doria Centre for Economic and Social Research, Rome, IT (July 2020)
 
+<br>
 
 Affiliations & memberships
-======
+------
 * Manlio Rossi-Doria Centre for Economic and Social Research, Roma Tre University
 * SIE — Società Italiana di Economia / Italian Economics Society
 * International J. A. Schumpeter Society
@@ -44,9 +46,10 @@ Affiliations & memberships
 * AISRe — Italian Association of Regional Science
 * AIEAA — Italian Association of Agricultural and Applied Economics
 
+<br>
 
 Conferences & seminars
-======
+------
 * **2026**
   * 40th International Schumpeter Society Conference, University of Strasbourg // 47th AISRe Annual Conference, Florence // EuSPRI Annual Conference, Technical University of Valencia // Workshop "Advances in Spatial and Network Modelling for Policymaking", EC-JRC Seville // DISES Seminar, University of Salerno // Frontiers in Causal Inference and Machine Learning, IMT Alti Studi, Lucca // Workshop "Governance e transizioni nella nuova politica di coesione: le evidenze e la riforma", Roma Tre // 24th SIEPI Workshop, Bari.
 * **2025**
@@ -60,5 +63,6 @@ Conferences & seminars
 * **2021**
   * 62nd Annual Meeting, Società Italiana di Economia.
 
+<br>
 
 Sometimes I am also less boring. Among my passions, you may find: politics; cooking, tea, and coffee; contemporary art, photography, and graphic design; making lists, building Lego, and filling Post-it notes. More personal bits in [Misc](/misc/).
