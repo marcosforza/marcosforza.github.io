@@ -39,11 +39,6 @@ author_profile: true
   </figure>
 
   <figure>
-    <img src="/assets/img/photo5.jpg" alt="Foto 5">
-    <figcaption>Periferie</figcaption>
-  </figure>
-
-  <figure>
     <img src="/assets/img/photo6.jpg" alt="Foto 6">
     <figcaption>Un po' Casablanca, un po' L'Avana</figcaption>
   </figure>
