@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Marco Sforza"
+title: "about me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,5 +23,7 @@ Currently, I'm working on the research project "<b>Policies for Transition: Impa
 ### Feel free to contact me:
 ------
 
-<b>Mail</b>: marco.sforza@uniroma3.it<br>
+<b>Mail [1]</b>: marco.sforza@uniroma3.it<br>
+<b>Mail [2]</b>: marco@marcosforza.eu<br>
+
 <b>Office</b>: Via Silvio D'Amico, 77 - 00145 Rome (IT)
