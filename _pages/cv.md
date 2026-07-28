@@ -18,7 +18,7 @@ redirect_from:
     
 * **M.Sc. in Political Economy**, <i>cum laude</i>. Dept. of Economics and Law, Sapienza University of Rome, 2019<br>
   Thesis in Political Economy (SECS-P/01):<br>
-  <i>Structural change, technological innovation, and employment: evidence from Italy</i><br>
+  <i>"Structural change, technological innovation, and employment: evidence from Italy"</i><br>
   Supervisor: prof. Annamaria Simonazzi
     
 * **B.Sc. in Economics**. Dept. of Economics and Law, Sapienza University of Rome, 2016
