@@ -13,10 +13,11 @@ author_profile: true
 ###### Just some shots of moments, places, and lights that I loved and tried to capture:
 ------
 <div class="photo-grid">
-  <img src="/assets/img/misc/photo1.jpg" alt="Photo 1">
-  <img src="/assets/img/misc/photo2.jpg" alt="Photo 2">
-  <img src="/assets/img/misc/photo3.jpg" alt="Photo 3">
-  <img src="/assets/img/misc/photo4.jpg" alt="Photo 4">
+  <img src="/assets/img/photo1.jpg" alt="Photo 1">
+  <img src="/assets/img/photo2.jpg" alt="Photo 2">
+  <img src="/assets/img/photo3.jpg" alt="Photo 3">
+  <img src="/assets/img/photo4.jpg" alt="Photo 4">
+  <img src="/assets/img/photo5.jpg" alt="Photo 5">
 </div>
 
 <br>
