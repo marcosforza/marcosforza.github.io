@@ -18,8 +18,8 @@ main:
   - title: "cv"
     url: /cv/
 
-  - title: "teaching"
-    url: /teaching/    
+  # - title: "teaching"
+  #   url: /teaching/    
     
   - title: "misc"
     url: /misc/
