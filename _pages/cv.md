@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### Education
 ------
 * Ph.D in Economics, Dept. of Economics, Roma Tre University, 2023
   * Dissertation in Applied Economics (ECON-04/A):<br>
@@ -25,7 +25,7 @@ Education
 
 <br>
 
-Schools & advanced training
+### Schools & advanced training
 ------
 * Patent Data Analysis for Economics, SEEDS Summer school, University of Ferrara, IT (June 2024)
 * International business, innovation and geography, Henley Business School, University of Reading, UK (March 2023)
@@ -48,21 +48,22 @@ Affiliations & memberships
 
 <br>
 
-Conferences & seminars
+### Conferences & seminars
 ------
-* **2026**
-  * 40th International Schumpeter Society Conference, University of Strasbourg // 47th AISRe Annual Conference, Florence // EuSPRI Annual Conference, Technical University of Valencia // Workshop "Advances in Spatial and Network Modelling for Policymaking", EC-JRC Seville // DISES Seminar, University of Salerno // Frontiers in Causal Inference and Machine Learning, IMT Alti Studi, Lucca // Workshop "Governance e transizioni nella nuova politica di coesione: le evidenze e la riforma", Roma Tre // 24th SIEPI Workshop, Bari.
-* **2025**
-  * Workshop "Italy in the Global Economy: Academia-Policy Dialogue on FDI, Trade, and Value Chains", University of Verona // Green and Digital Transformations. Skills, Jobs and Policy, University of Ferrara // 66th Annual Meeting, Società Italiana di Economia, Università di Napoli Parthenope // 46th AISRe Annual Conference, Pescara // GRAPE Seminar Series, CNR-IRCrES, Roma // 13rd IAERE Annual Conference, Roma // 23rd SIEPI Workshop, Bologna.
-* **2024**
-  * 65th Annual Meeting, Società Italiana di Economia, University of Urbino // GRAPE Seminar Series, CNR-IRCrES, Roma // 25th Annual Conference, European Trade Study Group, Athens // 13rd Workshop, Associazione Italiana di Economia Agraria e Applicata, University of Bari // 22nd SIEPI Workshop, Bergamo // EU-IOSAC Inaugural Workshop (invited), LUISS Institute for European Analysis and Policy, Roma.
-* **2023**
-  * 64th Annual Meeting, Società Italiana di Economia, GSSI, L'Aquila // Institutions, Knowledge, and Economic Development, University of Cagliari // 24th Annual Conference, European Trade Study Group, University of Surrey // Eu-SPRI Annual Conference, SPRU University of Sussex // Industry 4.0: Ten Years Later, University of Modena and Reggio Emilia // IBIG Masterclass seminar, Henley Business School, University of Reading.
-* **2022**
-  * 20th SIEPI Workshop, L'Aquila.
-* **2021**
-  * 62nd Annual Meeting, Società Italiana di Economia.
+**2026**
+* 40th International Schumpeter Society Conference, University of Strasbourg // 47th AISRe Annual Conference, Florence // EuSPRI Annual Conference, Technical University of Valencia // Workshop "Advances in Spatial and Network Modelling for Policymaking", EC-JRC Seville // DISES Seminar, University of Salerno // Frontiers in Causal Inference and Machine Learning, IMT Alti Studi, Lucca // Workshop "Governance e transizioni nella nuova politica di coesione: le evidenze e la riforma", Roma Tre // 24th SIEPI Workshop, Bari.
+**2025**
+* Workshop "Italy in the Global Economy: Academia-Policy Dialogue on FDI, Trade, and Value Chains", University of Verona // Green and Digital Transformations. Skills, Jobs and Policy, University of Ferrara // 66th Annual Meeting, Società Italiana di Economia, Università di Napoli Parthenope // 46th AISRe Annual Conference, Pescara // GRAPE Seminar Series, CNR-IRCrES, Roma // 13rd IAERE Annual Conference, Roma // 23rd SIEPI Workshop, Bologna.
+**2024**
+* 65th Annual Meeting, Società Italiana di Economia, University of Urbino // GRAPE Seminar Series, CNR-IRCrES, Roma // 25th Annual Conference, European Trade Study Group, Athens // 13rd Workshop, Associazione Italiana di Economia Agraria e Applicata, University of Bari // 22nd SIEPI Workshop, Bergamo // EU-IOSAC Inaugural Workshop (invited), LUISS Institute for European Analysis and Policy, Roma.
+**2023**
+* 64th Annual Meeting, Società Italiana di Economia, GSSI, L'Aquila // Institutions, Knowledge, and Economic Development, University of Cagliari // 24th Annual Conference, European Trade Study Group, University of Surrey // Eu-SPRI Annual Conference, SPRU University of Sussex // Industry 4.0: Ten Years Later, University of Modena and Reggio Emilia // IBIG Masterclass seminar, Henley Business School, University of Reading.
+**2022**
+* 20th SIEPI Workshop, L'Aquila.
+**2021**
+* 62nd Annual Meeting, Società Italiana di Economia.
 
 <br>
 
+------
 Sometimes I am also less boring. Among my passions, you may find: politics; cooking, tea, and coffee; contemporary art, photography, and graphic design; making lists, building Lego, and filling Post-it notes. More personal bits in [Misc](/misc/).
