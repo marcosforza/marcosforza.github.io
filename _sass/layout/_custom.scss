@@ -1,7 +1,11 @@
 .page__footer {
   border-top: 0 !important;
   margin-top: 0 !important;
-  padding: 0.35rem 0 !important;
+  padding: 0.2rem 0 !important;
+  min-height: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
 
 .page__footer-follow {
@@ -10,7 +14,6 @@
 
 .page__footer-copyright {
   width: 100%;
-  max-width: none;
   margin: 0 !important;
   padding: 0 1rem !important;
   text-align: left;
