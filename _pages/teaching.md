@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 nav: false
@@ -8,9 +8,8 @@ nav: false
 
 {% include base_path %}
 
-<br>
-
-# Economia Applicata 
+# Economia Applicata
+**A.A. 2026-27**
 
 **Corso di Laurea in Economia, 9 CFU, SSD: SECS-P/06**
 
