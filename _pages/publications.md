@@ -18,13 +18,18 @@ author_profile: true
 
 <br>
 
-### Working papers
-------
+<details>
+  <summary><b>Working papers</b></summary>
+    
+  - Crespi, F., Menghini, M., Pierucci, E., Sforza, M., Zoppoli, P. (2025). *Measuring the Transition: A Micro-level Indicator to Assess the Digitalisation of Italian Firms*. Dept. of the Treasury Working Paper Series, no. 6/2025, Ministry of Economy and Finance. [Link to the WP](https://www.dt.mef.gov.it/it/attivita_istituzionali/analisi_programmazione_economico_finanziaria/working_papers_prodotti_ricerca/article_workingpapers/Measuring-the-Transition-A-Micro-level-Indicator-to-Assess-the-Digitalisation-of-Italian-Firms-00001/)
+    
+  - Salvatici, L., Sforza, M., Vaquero Piñeiro, C. (2025). *The impact of agriculture on climate change: a review of approaches to modelling agricultural emissions*. Dipartimento di Economia Working Papers n. 286, Roma Tre University. [Link to the WP](https://economia.uniroma3.it/wp-content/uploads/sites/5/file_locked/2025/05/WP_286.pdf)
 
-- Crespi, F., Menghini, M., Pierucci, E., Sforza, M., Zoppoli, P. (2025). *Measuring the Transition: A Micro-level Indicator to Assess the Digitalisation of Italian Firms*. Dept. of the Treasury Working Paper Series, no. 6/2025, Ministry of Economy and Finance. [Link to the WP](https://www.dt.mef.gov.it/it/attivita_istituzionali/analisi_programmazione_economico_finanziaria/working_papers_prodotti_ricerca/article_workingpapers/Measuring-the-Transition-A-Micro-level-Indicator-to-Assess-the-Digitalisation-of-Italian-Firms-00001/)
-- Salvatici, L., Sforza, M., Vaquero Piñeiro, C. (2025). *The impact of agriculture on climate change: a review of approaches to modelling agricultural emissions*. Dipartimento di Economia Working Papers n. 286, Roma Tre University. [Link to the WP](https://economia.uniroma3.it/wp-content/uploads/sites/5/file_locked/2025/05/WP_286.pdf)
-- Giunta, A., Marvasi, E., and Sforza, M. (2024). *Digitalization and Regionalization of Global Value Chains in European Industries*. LEAP Working Paper n. 19/2024, LUISS Institute for European Analysis and Policy. [Link to the WP](https://leap.luiss.it/publication-research/publications/a-giunta-e-marvasi-m-sforza-digitalization-and-regionalization-of-global-value-chains-in-european-industries/)
-- Sforza, M. (2023). *Are digital technologies reshaping trade patterns? Evidence from European industries*. Dipartimento di Economia Working Papers n. 275, Roma Tre University. [Link to the WP](https://ideas.repec.org/p/rtr/wpaper/0275.html)
+  - Giunta, A., Marvasi, E., and Sforza, M. (2024). *Digitalization and Regionalization of Global Value Chains in European Industries*. LEAP Working Paper n. 19/2024, LUISS Institute for European Analysis and Policy. [Link to the WP](https://leap.luiss.it/publication-research/publications/a-giunta-e-marvasi-m-sforza-digitalization-and-regionalization-of-global-value-chains-in-european-industries/)
+    
+  - Sforza, M. (2023). *Are digital technologies reshaping trade patterns? Evidence from European industries*. Dipartimento di Economia Working Papers n. 275, Roma Tre University. [Link to the WP](https://ideas.repec.org/p/rtr/wpaper/0275.html)
+  
+</details>
 
 <br>
 
