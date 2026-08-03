@@ -56,7 +56,7 @@ author_profile: true
 ### Selected work in progress
 ------
 
-- *Optimal Policy Learning for heterogeneous contexts*, with F. Crespi, M. Menghini, E. Pierucci, and P. Zoppoli.
+- *Policy Learning for technology policy mix in heterogeneous contexts*, with F. Crespi, M. Menghini, E. Pierucci, and P. Zoppoli.
 - *Markups heterogeneity in European firms*, with E. Pierucci.
 - *EU Cohesion Policy and firms' digitalization*, with F. Crespi, M. Giua, E. Pierucci, and G. V. Sonzogno.
 - *Digital technologies and managerial capabilities in Italian family firms*, with R. Gabriele and A. Giunta.
