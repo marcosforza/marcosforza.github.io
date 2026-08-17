@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "photography"
-permalink: /photos/
+permalink: /photo/
 author_profile: true
 ---
 
