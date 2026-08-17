@@ -56,15 +56,15 @@ author_profile: true
 
   <!-- Foto 6 -->
   <div class="col-xs-6 col-sm-6 col-md-4" style="padding: 8px;">
-    <a href="/assets/img/bliss_agro.jpg" data-lightbox="galleria-portfolio" data-title="">
-      <img src="/assets/img/bliss_agro.jpg" alt="Foto 6" style="width:100%; height:220px; object-fit:cover; border-radius:6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor:pointer;">
+    <a href="/assets/img/bliss_agro.png" data-lightbox="galleria-portfolio" data-title="">
+      <img src="/assets/img/bliss_agro.png" alt="Foto 6" style="width:100%; height:220px; object-fit:cover; border-radius:6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor:pointer;">
     </a>
   </div>
 
   <!-- Foto 7 -->
   <div class="col-xs-6 col-sm-6 col-md-4" style="padding: 8px;">
-    <a href="/assets/img/brutal_eyes.jpg" data-lightbox="galleria-portfolio" data-title="">
-      <img src="/assets/img/brutal_eyes.jpg" alt="Foto 7" style="width:100%; height:220px; object-fit:cover; border-radius:6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor:pointer;">
+    <a href="/assets/img/brutal_eyes_2.jpg" data-lightbox="galleria-portfolio" data-title="">
+      <img src="/assets/img/brutal_eyes_2.jpg" alt="Foto 7" style="width:100%; height:220px; object-fit:cover; border-radius:6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor:pointer;">
     </a>
   </div>
 
