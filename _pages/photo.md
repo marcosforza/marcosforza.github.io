@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Photography"
+title: "photography"
 permalink: /photos/
 author_profile: true
 ---
@@ -10,8 +10,8 @@ author_profile: true
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
 
-<header style="font-family: sans-serif; padding: 40px 0 20px 0; max-width: 800px; margin: 0 auto; text-align: center;">
-  <p style="font-size: 1.3rem; line-height: 1.6; color: #333; margin: 0;">
+<header style="font-family: sans-serif; padding: 20px 0 15px 0; text-align: right;">
+  <p style="font-size: 0.95rem; line-height: 1.5; color: #666; margin: 0; font-style: italic;">
     Sometimes I shoot, trying to capture shapes, lights, people, and places. Here is my portfolio.
   </p>
 </header>
@@ -21,7 +21,7 @@ author_profile: true
 
   <!-- Foto 1 -->
   <div class="gallery-item">
-    <a href="/assets/img/flow_bw.jpg" data-lightbox="galleria-portfolio" data-title="Flow B&W">
+    <a href="/assets/img/flow_bw.jpg" data-lightbox="galleria-portfolio" data-title="Flow">
       <img src="/assets/img/flow_bw.jpg" alt="Foto 1" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
@@ -56,7 +56,7 @@ author_profile: true
 
   <!-- Foto 6 -->
   <div class="gallery-item">
-    <a href="/assets/img/bliss_agro.png" data-lightbox="galleria-portfolio" data-title="Bliss Agro">
+    <a href="/assets/img/bliss_agro.png" data-lightbox="galleria-portfolio" data-title="Bliss, versione Agro romano">
       <img src="/assets/img/bliss_agro.png" alt="Foto 6" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
@@ -70,14 +70,14 @@ author_profile: true
 
   <!-- Foto 8 -->
   <div class="gallery-item">
-    <a href="/assets/img/concrete_shapes_2.jpg" data-lightbox="galleria-portfolio" data-title="Concrete Shapes">
+    <a href="/assets/img/concrete_shapes_2.jpg" data-lightbox="galleria-portfolio" data-title="Grigio forte">
       <img src="/assets/img/concrete_shapes_2.jpg" alt="Foto 8" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
 
   <!-- Foto 9 -->
   <div class="gallery-item">
-    <a href="/assets/img/martella.jpg" data-lightbox="galleria-portfolio" data-title="Martella">
+    <a href="/assets/img/martella.jpg" data-lightbox="galleria-portfolio" data-title="La Martella">
       <img src="/assets/img/martella.jpg" alt="Foto 9" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
@@ -91,7 +91,7 @@ author_profile: true
 
   <!-- Foto 11 -->
   <div class="gallery-item">
-    <a href="/assets/img/estate_italiana.jpg" data-lightbox="galleria-portfolio" data-title="Estate Italiana">
+    <a href="/assets/img/estate_italiana.jpg" data-lightbox="galleria-portfolio" data-title="Una Estate Italiana">
       <img src="/assets/img/estate_italiana.jpg" alt="Foto 11" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
@@ -103,44 +103,5 @@ author_profile: true
     </a>
   </div>
 
-</div>    <a href="/assets/img/brutal_eyes_2.jpg" data-lightbox="galleria-portfolio" data-title="">
-      <img src="/assets/img/brutal_eyes_2.jpg" alt="Foto 7" style="width:100%; height:220px; object-fit:cover; border-radius:6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor:pointer;">
-    </a>
-  </div>
-
-  <!-- Foto 8 -->
-  <div class="col-xs-6 col-sm-6 col-md-4" style="padding: 8px;">
-    <a href="/assets/img/concrete_shapes_2.jpg" data-lightbox="galleria-portfolio" data-title="">
-      <img src="/assets/img/concrete_shapes_2.jpg" alt="Foto 8" style="width:100%; height:220px; object-fit:cover; border-radius:6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor:pointer;">
-    </a>
-  </div>
-
-  <!-- Foto 9 -->
-  <div class="col-xs-6 col-sm-6 col-md-4" style="padding: 8px;">
-    <a href="/assets/img/martella.jpg" data-lightbox="galleria-portfolio" data-title="">
-      <img src="/assets/img/martella.jpg" alt="Foto 9" style="width:100%; height:220px; object-fit:cover; border-radius:6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor:pointer;">
-    </a>
-  </div>
-
-  <!-- Foto 10 -->
-  <div class="col-xs-6 col-sm-6 col-md-4" style="padding: 8px;">
-    <a href="/assets/img/gravina.jpg" data-lightbox="galleria-portfolio" data-title="">
-      <img src="/assets/img/gravina.jpg" alt="Foto 9" style="width:100%; height:220px; object-fit:cover; border-radius:6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor:pointer;">
-    </a>
-  </div>
-
-  <!-- Foto 11 -->
-  <div class="col-xs-6 col-sm-6 col-md-4" style="padding: 8px;">
-    <a href="/assets/img/estate_italiana.jpg" data-lightbox="galleria-portfolio" data-title="">
-      <img src="/assets/img/estate_italiana.jpg" alt="Foto 9" style="width:100%; height:220px; object-fit:cover; border-radius:6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor:pointer;">
-    </a>
-  </div>
-
-  <!-- Foto 12 -->
-  <div class="col-xs-6 col-sm-6 col-md-4" style="padding: 8px;">
-    <a href="/assets/img/fields_of_gold.jpg" data-lightbox="galleria-portfolio" data-title="">
-      <img src="/assets/img/fields_of_gold.jpg" alt="Foto 9" style="width:100%; height:220px; object-fit:cover; border-radius:6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); cursor:pointer;">
-    </a>
-  </div>
 
 </div>
