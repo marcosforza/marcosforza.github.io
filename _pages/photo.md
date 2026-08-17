@@ -37,8 +37,8 @@ When I step away from numbers and theory, I shoot, looking for shapes, light, pe
 
   <!-- Foto 2 -->
   <div class="gallery-item">
-    <a href="/assets/img/kiss.jpg" data-lightbox="galleria-portfolio" data-title="Youth">
-      <img src="/assets/img/kiss.jpg" alt="Foto 2" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
+    <a href="/assets/img/youth.jpg" data-lightbox="galleria-portfolio" data-title="Youth">
+      <img src="/assets/img/youth.jpg" alt="Foto 2" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
 
