@@ -18,10 +18,11 @@ author_profile: true
   })
 </script>
 
+<br>
+
 > « […] Art [should be considered] as a vast framework within which concepts are expressed through icons rather than words and, at the same time, as the 'highest level of imaginative thinking' »<br>
 — G. C. Argan
 
-<br>
 <hr>
 
 <header style="font-family: sans-serif; padding: 20px 0 15px 0; text-align: left;">
