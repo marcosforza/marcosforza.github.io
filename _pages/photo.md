@@ -37,7 +37,7 @@ When I step away from numbers and theory, I shoot, looking for shapes, light, pe
 
   <!-- Foto 2 -->
   <div class="gallery-item">
-    <a href="/assets/img/kiss.jpg" data-lightbox="galleria-portfolio" data-title="Kiss">
+    <a href="/assets/img/kiss.jpg" data-lightbox="galleria-portfolio" data-title="Youth">
       <img src="/assets/img/kiss.jpg" alt="Foto 2" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
@@ -58,21 +58,21 @@ When I step away from numbers and theory, I shoot, looking for shapes, light, pe
 
   <!-- Foto 5 -->
   <div class="gallery-item">
-    <a href="/assets/img/on_the_road.jpg" data-lightbox="galleria-portfolio" data-title="On the Road">
+    <a href="/assets/img/on_the_road.jpg" data-lightbox="galleria-portfolio" data-title="On the road">
       <img src="/assets/img/on_the_road.jpg" alt="Foto 5" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
 
   <!-- Foto 6 -->
   <div class="gallery-item">
-    <a href="/assets/img/bliss_agro.png" data-lightbox="galleria-portfolio" data-title="Bliss, versione Agro romano">
-      <img src="/assets/img/bliss_agro.png" alt="Foto 6" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
+    <a href="/assets/img/bliss_agro.jpg" data-lightbox="galleria-portfolio" data-title="Bliss, versione Agro romano">
+      <img src="/assets/img/bliss_agro.jpg" alt="Foto 6" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
 
   <!-- Foto 7 -->
   <div class="gallery-item">
-    <a href="/assets/img/brutal_eyes_2.jpg" data-lightbox="galleria-portfolio" data-title="Brutal Eyes">
+    <a href="/assets/img/brutal_eyes_2.jpg" data-lightbox="galleria-portfolio" data-title="Brutal eyes">
       <img src="/assets/img/brutal_eyes_2.jpg" alt="Foto 7" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
@@ -100,14 +100,14 @@ When I step away from numbers and theory, I shoot, looking for shapes, light, pe
 
   <!-- Foto 11 -->
   <div class="gallery-item">
-    <a href="/assets/img/estate_italiana.jpg" data-lightbox="galleria-portfolio" data-title="Una Estate Italiana">
+    <a href="/assets/img/estate_italiana.jpg" data-lightbox="galleria-portfolio" data-title="Una estate italiana">
       <img src="/assets/img/estate_italiana.jpg" alt="Foto 11" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
 
   <!-- Foto 12 -->
   <div class="gallery-item">
-    <a href="/assets/img/fields_of_gold.jpg" data-lightbox="galleria-portfolio" data-title="Fields of Gold">
+    <a href="/assets/img/fields_of_gold.jpg" data-lightbox="galleria-portfolio" data-title="Fields of gold">
       <img src="/assets/img/fields_of_gold.jpg" alt="Foto 12" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
