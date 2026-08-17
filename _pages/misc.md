@@ -5,60 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-> « […] Art [should be considered] as a vast framework within which concepts are expressed through icons rather than words and, at the same time, as the 'highest level of imaginative thinking' »<br>
-— G. C. Argan
-
-<br>
-<hr>
-
-Just some shots of moments, places, and lights that I loved and tried to capture:
-
-<div class="misc-gallery">
-  <figure>
-    <img src="/assets/img/photo1.jpg" alt="Foto 1">
-    <figcaption> </figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/photo2.jpg" alt="Foto 2">
-    <figcaption> </figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/photo3.jpg" alt="Foto 3">
-    <figcaption>Grigio forte</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/photo4.jpg" alt="Foto 4">
-    <figcaption> </figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/photo5.jpg" alt="Foto 5">
-    <figcaption>Periferie</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/photo6.jpg" alt="Foto 6">
-    <figcaption>Un po' Casablanca, un po' L'Avana</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/photo7.png" alt="Foto 7">
-    <figcaption>Todo modo para buscar (...)</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/photo8.png" alt="Foto 8">
-    <figcaption>Sofia</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/assets/img/photo9.png" alt="Foto 9">
-    <figcaption>Bliss, versione Agro romano</figcaption>
-  </figure>
-</div>
+When I step away from numbers and theory, I try to capture light, places, and people with my Nikon. You can explore some of my work in the [Photography](/photos/) section.
 
 <br>
 <hr>
