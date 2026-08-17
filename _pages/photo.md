@@ -46,8 +46,8 @@ Here is a small collection of recent work.
 
   <!-- Foto 3 -->
   <div class="gallery-item">
-    <a href="/assets/img/dipendenze.jpg" data-lightbox="galleria-portfolio" data-title="Dipendenze">
-      <img src="/assets/img/dipendenze.jpg" alt="Foto 3" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
+    <a href="/assets/img/apres_midi.jpg" data-lightbox="galleria-portfolio" data-title="L'après-midi">
+      <img src="/assets/img/apres_midi.jpg" alt="Foto 3" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
 
