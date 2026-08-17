@@ -23,8 +23,8 @@ Currently, I'm working on the research project "<b>Policies for Transition: Impa
 ### Feel free to contact me:
 ------
 
-<b>Mail [1]</b>: <code>marco.sforza@uniroma3.it</code><br>
-<b>Mail [2]</b>: <code>marco@marcosforza.eu</code><br>
+<b>Work</b>: <code>marco.sforza@uniroma3.it</code><br>
+<b>Personal</b>: <code>marco@marcosforza.eu</code><br>
 
 <b>Office</b>:<br>
 Dept. of Economics, Roma Tre University<br>
