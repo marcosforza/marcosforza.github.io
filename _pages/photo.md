@@ -9,6 +9,14 @@ author_profile: true
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
+<!-- Disattiva animazioni, dissolvenze e ritardi -->
+<script>
+  lightbox.option({
+    'fadeDuration': 0,
+    'resizeDuration': 0,
+    'imageFadeDuration': 0
+  })
+</script>
 
 <header style="font-family: sans-serif; padding: 20px 0 15px 0; text-align: left;">
   <p style="font-size: 0.95rem; line-height: 1.5; color: #666; margin: 0; font-style: italic;">
