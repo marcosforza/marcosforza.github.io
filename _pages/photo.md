@@ -18,18 +18,12 @@ author_profile: true
   })
 </script>
 
-<br>
-
 > « […] Art [should be considered] as a vast framework within which concepts are expressed through icons rather than words and, at the same time, as the 'highest level of imaginative thinking' »<br>
 — G. C. Argan
 
 <hr>
 
-<header style="font-family: sans-serif; padding: 20px 0 15px 0; text-align: left;">
-  <p style="font-size: 0.95rem; line-height: 1.5; color: #666; margin: 0; font-style: italic;">
-    When I step away from numbers and theory, I shoot, looking for shapes, light, people, and places. Here is my portfolio.
-  </p>
-</header>
+When I step away from numbers and theory, I shoot, looking for shapes, light, people, and places. Here is my portfolio.
 
 <!-- Griglia Fotografica 3 Colonne x 4 Righe -->
 <div class="photo-gallery-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 20px 0;">
