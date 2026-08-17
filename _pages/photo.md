@@ -23,7 +23,9 @@ author_profile: true
 
 <hr>
 
-When I step away from numbers and theory, I shoot, looking for shapes, light, people, and places. Here is my portfolio.
+When I step away from numbers and theory, I shoot with my Nikon, looking for shapes, light, people, and places. 
+
+Here is a small collection of recent work.
 
 <!-- Griglia Fotografica 3 Colonne x 4 Righe -->
 <div class="photo-gallery-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 20px 0;">
