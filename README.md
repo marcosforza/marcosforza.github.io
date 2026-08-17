@@ -6,8 +6,7 @@ This repository hosts the source code for my personal and academic website, buil
 
 ## Contact
 
-For any inquiries, feel free to reach out via email:  
-`marco[at]marcosforza[dot]eu`
+For any inquiries, feel free to reach out via email: `marco@marcosforza.eu`
 
 ---
 
