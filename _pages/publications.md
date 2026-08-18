@@ -16,7 +16,6 @@ author_profile: true
 - Giunta, A., Marvasi, E., and Sforza, M. (2025). *[Digitalization and regionalization of Global Value Chains in European industries](https://doi.org/10.1007/s40812-025-00347-2)*. Journal of Industrial and Business Economics. Article available in open access.
 - Bronzini, R., Giunta, A., Pierucci, E., and Sforza, M. (2024). *[More technology, more loans? How advanced digital technologies influence firms’ financing conditions](https://doi.org/10.1016/j.strueco.2024.11.011)*. Structural Change and Economic Dynamics. Article available in open access.
 
-<br>
 
 <details>
   <summary><b>Working papers</b></summary>
@@ -51,7 +50,6 @@ author_profile: true
   </ul>
 </details>
 
-<br>
 
 ### Selected work in progress
 ------
@@ -63,7 +61,6 @@ author_profile: true
 - *Digitalization and technical efficiency using Stochastic Frontiers*, with M. Agostino, A. Giunta, S. Ruberto.
 - *Firms' Energy Performance Under Different Incentives*, with F. Calciolari and M. D'Angeli.
 
-<br>
 
 ## PhD Thesis
 ------
