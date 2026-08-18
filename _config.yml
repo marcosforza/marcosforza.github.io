@@ -11,11 +11,10 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Marco Sforza"
 title_separator          : "-"
-name                     : &name "Marco Sforza"
+name                     : "Marco Sforza" &name
 description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://marcosforza.eu # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://marcosforza.eu"
+baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Marco Sforza"
-  pronouns         : "(he/him)" # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : |
     Post-doc Researcher
     in Applied Economics
@@ -53,7 +52,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "marcosforza"
+  github           : # "marcosforza"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -140,7 +139,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
