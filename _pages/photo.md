@@ -22,11 +22,13 @@ author_profile: true
 — G. C. Argan
 
 <hr>
+<br>
 
 When I step away from numbers and theory, I shoot with my Nikon.<br>
 I focus on shapes, light, and people interacting with places.<br>
 Here is a small collection of recent work.
 
+<br>
 <!-- Griglia Fotografica 3 Colonne x 4 Righe -->
 <div class="photo-gallery-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 20px 0;">
 
