@@ -5,17 +5,14 @@ permalink: /misc/
 author_profile: true
 ---
 
-When I step away from numbers and theory, I try to capture light, places, and people with my Nikon. 
-
+When I step away from numbers and theory, I try to capture light, places, and people with my Nikon.<br>
 You can explore some of my work in the [Photography](/photo/) section.
 
-<br>
 <hr>
 
 > « Detesto ogni tipo di scommessa. Non voglio correre il rischio di vincere. E ho un debole per le sconfitte, per gli sconfitti. Posso anche dirle che vado scoprendomi un certo amore alla rivoluzione: appunto perché è ormai sconfitta. »<br>
 — Leonardo Sciascia, Il contesto (1976)
 
-<br>
 <hr>
 
 **My philosophy:**
