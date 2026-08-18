@@ -23,7 +23,6 @@ redirect_from:
     
 * **B.Sc. in Economics**. Dept. of Economics and Law, Sapienza University of Rome, 2016
 
-<br>
 
 ### Schools & advanced training
 ------
@@ -35,7 +34,6 @@ redirect_from:
 * *Panel data econometrics: theory and applications*. Italian Econometric Association, Bertinoro, IT (August 2020)
 * *Public policy impact assessment. Concept, methods, applications*. Manlio Rossi-Doria Centre for Economic and Social Research, Rome, IT (July 2020)
 
-<br>
 
 ### Affiliations & memberships
 ------
@@ -46,7 +44,6 @@ redirect_from:
 * AISRe — Italian Association of Regional Science
 * AIEAA — Italian Association of Agricultural and Applied Economics
 
-<br>
 
 ### Conferences & seminars
 ------
@@ -68,7 +65,6 @@ Workshop "Italy in the Global Economy: Academia-Policy Dialogue on FDI, Trade, a
 **2021**<br>
 62nd Annual Meeting, Società Italiana di Economia.
 
-<br>
 
 ------
 Sometimes I am also less boring. Among my passions, you may find: politics; cooking, tea, and coffee; contemporary art, photography, and graphic design; making lists, building Lego, and filling Post-it notes. More personal bits in [Misc](/misc/).
