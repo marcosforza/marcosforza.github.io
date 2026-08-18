@@ -58,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "marcosforza" # Replace this with you Bluesky username
+  bluesky          : # "marcosforza" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -68,14 +68,14 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : "https://econtwitter.net/@marcosforza" # URL
+  mastodon         : # "https://econtwitter.net/@marcosforza" # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "_marcosforza" # Username for X / Twitter
+  twitter          : # "_marcosforza" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
