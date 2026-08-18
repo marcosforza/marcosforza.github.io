@@ -23,8 +23,8 @@ author_profile: true
 
 <hr>
 
-When I step away from numbers and theory, I shoot with my Nikon, trying to capture shapes, light, people, and places I like. 
-
+When I step away from numbers and theory, I shoot with my Nikon.<br>
+I focus on shapes, light, and people interacting with places.<br>
 Here is a small collection of recent work.
 
 <!-- Griglia Fotografica 3 Colonne x 4 Righe -->
