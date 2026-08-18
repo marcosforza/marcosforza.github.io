@@ -5,7 +5,9 @@ permalink: /misc/
 author_profile: true
 ---
 
-When I step away from numbers and theory, I try to capture light, places, and people with my Nikon. You can explore some of my work in the [Photography](/photo/) section.
+When I step away from numbers and theory, I try to capture light, places, and people with my Nikon. 
+
+You can explore some of my work in the [Photography](/photo/) section.
 
 <br>
 <hr>
