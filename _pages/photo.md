@@ -34,21 +34,21 @@ Here is a small collection of recent work.
 
   <!-- Foto 1 -->
   <div class="gallery-item">
-    <a href="/assets/img/flow_bw.jpg" data-lightbox="galleria-portfolio" data-title="Flow">
+    <a href="/assets/img/flow_bw.jpg" data-lightbox="galleria-portfolio" data-title="In the flow">
       <img src="/assets/img/flow_bw.jpg" alt="Foto 1" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
 
   <!-- Foto 2 -->
   <div class="gallery-item">
-    <a href="/assets/img/youth.jpg" data-lightbox="galleria-portfolio" data-title="Youth">
+    <a href="/assets/img/youth.jpg" data-lightbox="galleria-portfolio" data-title="Seduti sui gradini di una chiesa, aspettavamo che finisse messa">
       <img src="/assets/img/youth.jpg" alt="Foto 2" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
 
   <!-- Foto 3 -->
   <div class="gallery-item">
-    <a href="/assets/img/apres_midi.jpg" data-lightbox="galleria-portfolio" data-title="L'après-midi">
+    <a href="/assets/img/apres_midi.jpg" data-lightbox="galleria-portfolio" data-title="Strasbourg, après-midi">
       <img src="/assets/img/apres_midi.jpg" alt="Foto 3" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
