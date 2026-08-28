@@ -116,5 +116,26 @@ Here is a small collection of recent work.
     </a>
   </div>
 
+  <!-- Foto 13 -->
+  <div class="gallery-item">
+    <a href="/assets/img/borroka.jpg" data-lightbox="galleria-portfolio" data-title="Donne lavoratrici in prima linea // La lotta non si ferma.">
+      <img src="/assets/img/borroka.jpg" alt="Foto 13" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
+    </a>
+  </div>
+  
+  <!-- Foto 14 -->
+  <div class="gallery-item">
+    <a href="/assets/img/arquitectura.jpg" data-lightbox="galleria-portfolio" data-title="Arquitectura madrileña">
+      <img src="/assets/img/arquitectura.jpg" alt="Foto 14" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
+    </a>
+  </div>
+  
+  <!-- Foto 15 -->
+  <div class="gallery-item">
+    <a href="/assets/img/indoor.jpg" data-lightbox="galleria-portfolio" data-title="Indoor">
+      <img src="/assets/img/indoor.jpg" alt="Foto 15" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
+    </a>
+  </div>
+
 
 </div>
