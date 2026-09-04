@@ -34,7 +34,7 @@ Here is a small collection of recent work.
 
   <!-- Foto 1 -->
   <div class="gallery-item">
-    <a href="/assets/img/flow_bw.jpg" data-lightbox="galleria-portfolio" data-title="In the flow">
+    <a href="/assets/img/flow_bw.jpg" data-lightbox="galleria-portfolio" data-title="The Phantom <em>and</em> the Opera">
       <img src="/assets/img/flow_bw.jpg" alt="Foto 1" style="width: 100%; height: 240px; object-fit: cover; border-radius: 6px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,0.12); cursor: pointer;">
     </a>
   </div>
