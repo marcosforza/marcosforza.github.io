@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "didattica"
 permalink: /teaching/
 author_profile: true
-nav: false
+nav: true
 ---
 
 {% include base_path %}
