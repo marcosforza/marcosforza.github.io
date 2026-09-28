@@ -28,4 +28,4 @@ Le lezioni avranno inizio il 29 settembre 2026, e si svolgeranno secondo il segu
 * Giovedì, h10.30, aula 21
 * Venerdì, h10.30, centro di calcolo
 
-Maggiori informazioni saranno disponibili sulla pagina del corso, [a questo indirizzo](https://economia.uniroma3.it/insegnamento-erogato/dipartimento-di-economia/l/2026-2027/Economia-0580706203300003/1E21F668-CCBB-4AFF-84DA-3DD365E08F7A--21210179/)
+Maggiori informazioni saranno disponibili sulla pagina del corso, [a questo indirizzo](https://economia.uniroma3.it/insegnamento-erogato/dipartimento-di-economia/l/2026-2027/Economia-0580706203300003/1E21F668-CCBB-4AFF-84DA-3DD365E08F7A--21210179/).
