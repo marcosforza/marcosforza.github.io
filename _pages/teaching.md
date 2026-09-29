@@ -8,6 +8,10 @@ nav: true
 
 {% include base_path %}
 
+In the academic year 2026/27, I will be teaching Applied Economics (undergraduate).
+
+Below is an overview of the course:
+
 # Economia Applicata
 **A.A. 2026-27**
 
