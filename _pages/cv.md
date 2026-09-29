@@ -42,7 +42,6 @@ redirect_from:
 * International J. A. Schumpeter Society
 * SIEPI — Italian Society of Industrial Economics and Policy
 * AISRe — Italian Association of Regional Science
-* AIEAA — Italian Association of Agricultural and Applied Economics
 
 
 ### Conferences & seminars
