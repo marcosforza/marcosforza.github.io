@@ -48,7 +48,7 @@ redirect_from:
 ### Conferences & seminars
 ------
 **2026**<br>
-40th International Schumpeter Society Conference, University of Strasbourg // 47th AISRe Annual Conference, Florence // EuSPRI Annual Conference, Technical University of Valencia // Workshop "Advances in Spatial and Network Modelling for Policymaking", EC-JRC Seville // DISES Seminar, University of Salerno // Frontiers in Causal Inference and Machine Learning, IMT Alti Studi, Lucca // Workshop "Governance e transizioni nella nuova politica di coesione: le evidenze e la riforma", Roma Tre // 24th SIEPI Workshop, Bari.
+Institutions and Regional Development Conference, ASC and University of Palermo // 40th International Schumpeter Society Conference, University of Strasbourg // 47th AISRe Annual Conference, Florence // EuSPRI Annual Conference, Technical University of Valencia // Workshop "Advances in Spatial and Network Modelling for Policymaking", EC-JRC Seville // DISES Seminar, University of Salerno // Frontiers in Causal Inference and Machine Learning, IMT Alti Studi, Lucca // Workshop "Governance e transizioni nella nuova politica di coesione: le evidenze e la riforma", Roma Tre // 24th SIEPI Workshop, Bari.
 
 **2025**<br>
 Workshop "Italy in the Global Economy: Academia-Policy Dialogue on FDI, Trade, and Value Chains", University of Verona // Green and Digital Transformations. Skills, Jobs and Policy, University of Ferrara // 66th Annual Meeting, Società Italiana di Economia, Università di Napoli Parthenope // 46th AISRe Annual Conference, Pescara // GRAPE Seminar Series, CNR-IRCrES, Roma // 13rd IAERE Annual Conference, Roma // 23rd SIEPI Workshop, Bologna.
