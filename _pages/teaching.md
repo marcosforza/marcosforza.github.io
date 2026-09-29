@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "didattica"
+title: "teaching"
 permalink: /teaching/
 author_profile: true
 nav: true
