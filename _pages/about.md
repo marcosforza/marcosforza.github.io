@@ -20,7 +20,7 @@ Currently, I'm working on the research project "<b>Policies for Transition: Impa
 
 <br>
 
-### Feel free to contact me:
+### To get in touch:
 ------
 
 <b>Work</b>: <code>marco.sforza@uniroma3.it</code><br>
